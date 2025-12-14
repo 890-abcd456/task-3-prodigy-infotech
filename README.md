@@ -1,4 +1,5 @@
-# task-3-prodigy-infotech
+# PRODIGY_DS_03
+
 In this task, I built a Decision Tree classifier using the Diabetes dataset to predict whether a person is diabetic based on medical attributes. This task strengthened my understanding of supervised learning, model training, and performance evaluation.
 cols = ['Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI']
 df[cols] = df[cols].replace(0, df[cols].median())
